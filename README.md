@@ -15,21 +15,31 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
 
 # My Journey in University of Minho
 
-<details open>
-<summary>1 ano</summary>
+### 1 ano
 
-  [hi](../Projeto-CG)
 
-</details>
 
-<details open>
-<summary>2 ano</summary>
-<br>
-Well, you asked for it!
-</details>
 
-<details open>
-<summary>3 ano</summary>
-<br>
-Well, you asked for it!
-</details>
+### 2 ano
+
+  - [Sistemas Operativos](https://github.com/CatarinaOG/Projeto-SO)
+  - [Laboratórios de Informática 3](https://github.com/CatarinaOG/Projeto-LI3)
+
+
+### 3 ano
+
+  - [Computação Gráfica](https://github.com/CatarinaOG/Projeto-CG)
+  - [Processamento de Linguagens](https://github.com/CatarinaOG/Projeto-PL)
+  - [Redes de Computadores](https://github.com/CatarinaOG/TPs-RC)
+  - [Desenvolvimento de Sistemas Distribuidos](https://github.com/CatarinaOG/Projeto-DSS)
+  - [Laboratórios de Informática 4](https://github.com/CatarinaOG/Projeto-LI4)
+  - [Investigação Operacional](https://github.com/CatarinaOG/Projeto-IO)
+  - [Aprendizagem e Decisão Inteligentes](https://github.com/CatarinaOG/Projeto-ADI)
+  - [Programação Orientada aos Objetos](https://github.com/CatarinaOG/Projeto-POO)
+  - [Sistemas Distribuídos](https://github.com/CatarinaOG/Projeto-SD)
+  - [Inteligência Artificial](https://github.com/CatarinaOG/Projeto-IA)
+
+
+
+  
+
