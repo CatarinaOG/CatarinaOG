@@ -35,7 +35,6 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
   - [Desenvolvimento de Sistemas de Software](https://github.com/CatarinaOG/Projeto-DSS)
   - [Laboratórios de Informática 4](https://github.com/CatarinaOG/Projeto-LI4)
   - [Investigação Operacional](https://github.com/CatarinaOG/Projeto-IO)
-  - [Aprendizagem e Decisão Inteligentes](https://github.com/CatarinaOG/Projeto-ADI)
   - [Programação Orientada aos Objetos](https://github.com/CatarinaOG/Projeto-POO)
   - [Sistemas Distribuídos](https://github.com/CatarinaOG/Projeto-SD)
   - [Inteligência Artificial](https://github.com/CatarinaOG/Projeto-IA)
