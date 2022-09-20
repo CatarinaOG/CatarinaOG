@@ -1,3 +1,3 @@
 HELLOOOO :)
 
-[a relative link](CatarinaOG/SO)
+[a relative link](https://github.com/CatarinaOG/SO)
