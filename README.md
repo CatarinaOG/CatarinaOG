@@ -29,7 +29,7 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
 
 ### 3 ano
 
-[Notion Class Notes] (https://secret-soup-bd9.notion.site/3ano2sem-1c169c5b507d4a5f9d0330e31e7aa093)
+[Notion Class Notes](https://secret-soup-bd9.notion.site/3ano2sem-1c169c5b507d4a5f9d0330e31e7aa093)
 
   - [Computação Gráfica](https://github.com/CatarinaOG/Projeto-CG)
   - [Processamento de Linguagens](https://github.com/CatarinaOG/Projeto-PL)
