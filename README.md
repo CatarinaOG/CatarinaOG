@@ -32,7 +32,7 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
   - [Computação Gráfica](https://github.com/CatarinaOG/Projeto-CG)
   - [Processamento de Linguagens](https://github.com/CatarinaOG/Projeto-PL)
   - [Redes de Computadores](https://github.com/CatarinaOG/TPs-RC)
-  - [Desenvolvimento de Sistemas Distribuidos](https://github.com/CatarinaOG/Projeto-DSS)
+  - [Desenvolvimento de Sistemas de Software](https://github.com/CatarinaOG/Projeto-DSS)
   - [Laboratórios de Informática 4](https://github.com/CatarinaOG/Projeto-LI4)
   - [Investigação Operacional](https://github.com/CatarinaOG/Projeto-IO)
   - [Aprendizagem e Decisão Inteligentes](https://github.com/CatarinaOG/Projeto-ADI)
