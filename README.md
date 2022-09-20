@@ -14,3 +14,22 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
 
 
 # My Journey in University of Minho
+
+<details open>
+<summary>1 ano</summary>
+
+  [hi](../Projeto-CG)
+
+</details>
+
+<details open>
+<summary>2 ano</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<details open>
+<summary>3 ano</summary>
+<br>
+Well, you asked for it!
+</details>
