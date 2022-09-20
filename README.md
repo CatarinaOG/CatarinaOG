@@ -13,7 +13,7 @@
 Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a Master Degree in University of Minho. I have developed, through my studies, a special interest for Apps Development, specially Web Apps. However, i have also grown to really appreciate the development of database thanks to some projects developed in the meantime.
 
 
-# My Journey in University of Minho
+# My Journey @ University of Minho
 
 ### 1 ano
 
