@@ -17,13 +17,14 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
 
 ### 1 ano
 
-
+  - [Comunicação de Dados](https://github.com/CatarinaOG/Projeto-CD)
 
 
 ### 2 ano
 
   - [Sistemas Operativos](https://github.com/CatarinaOG/Projeto-SO)
   - [Laboratórios de Informática 3](https://github.com/CatarinaOG/Projeto-LI3)
+  - [Cálculo de Programas](https://github.com/CatarinaOG/Projeto-CP)
 
 
 ### 3 ano
