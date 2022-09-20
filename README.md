@@ -1,3 +1,3 @@
 HELLOOOO :)
 
-[a relative link](SO)
+[a relative link](/SO)
