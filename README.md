@@ -42,6 +42,12 @@ Hello, I'm Catarina, I'm a graduated Software Engineer, currently studying for a
   - [Inteligência Artificial](https://github.com/CatarinaOG/Projeto-IA)
 
 
+### 4ano
 
+  - [Aplicações e Serviços de Computação em Núvem](https://github.com/CatarinaOG/Projeto-ASCN)
+  - [Computação Paralela](https://github.com/CatarinaOG/Projeto-CPar)
+  - [Dados e Aprendizagem Automática](https://github.com/CatarinaOG/Projeto-DAA)
+  - [Engenharia de Serviços de Rede](https://github.com/CatarinaOG/Projeto-ESR)
+  - [Requisitos e Arquiteturas de Software](https://github.com/CatarinaOG/Projeto-RAS)
   
 
